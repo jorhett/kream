@@ -1,4 +1,4 @@
-node 'kube-master' {
+node 'ld07677' {
   include role::kubernetes::master
 }
 
